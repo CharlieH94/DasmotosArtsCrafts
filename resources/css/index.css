@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+    font-family: Helvetica;
+}
+
+
+/* Headings */
+
+h1 {
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+    background-image: url("../images/pattern.jpeg");
+}
+
+.headings {
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+
+/* Banners */
+
+#banner-brush {
+    background-color: mediumspringgreen;
+
+}
+
+#banner-frame {
+    background-color: lightcoral;
+}
+
+#banner-paint {
+    background-color: skyblue;
+}
+
+.prices {
+    font-weight: bold;
+    color: blue;
+}
